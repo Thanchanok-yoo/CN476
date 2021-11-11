@@ -5,4 +5,4 @@
 
 คลิปการใช้คำสั่ง dig หา IP Address
 
-< >
+<https://youtu.be/m2_jl0mW4as>
